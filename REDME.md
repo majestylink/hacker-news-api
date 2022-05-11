@@ -62,12 +62,6 @@ A typical setup to the app up and running locally is stated below:
     ```bash
     redis-server
     ```
-
-- In another terminal, start the celery tasks by (ensure your virtual environment is activated):
-
-    ```bash
-    celery -A hackernews worker -l info -B
-    ```
   
 - In another terminal, start the celery beat by (ensure your virtual environment is activated):
 
