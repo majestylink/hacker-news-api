@@ -8,7 +8,7 @@ A typical setup to the app up and running locally is stated below:
 
 - Get the program source files: You can clone it from Github via:
     ```bash
-    git clone https://github.com/Sirneij/Hackernews.git
+    git clone https://github.com/majestylink/hacker-news-api.git
     ```
 - Change directory into the source code folder:
     ```bash
